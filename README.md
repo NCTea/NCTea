@@ -60,7 +60,7 @@ Beyond tech, I believe in community collaboration, actively engaging with peers 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NCTea/Profile/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NCTea/NCTea/output/snake.svg" alt="Snake animation" />
 
 ###
 

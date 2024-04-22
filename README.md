@@ -24,7 +24,7 @@ Beyond tech, I believe in community collaboration, actively engaging with peers 
 
 <!-- <img align="right" style="margin-top:25px" height="150" src="https://firebasestorage.googleapis.com/v0/b/storage-7f82a.appspot.com/o/aaaa.gif?alt=media&token=efefd52e-8a5a-434e-84f8-3f8b2fd0df2d"  /> -->
 <div>
-    <img align="right" height="150" weight="150" src="https://firebasestorage.googleapis.com/v0/b/storage-7f82a.appspot.com/o/200w.gif?alt=media&token=b03cc017-a967-4174-b87f-cb9ed12707d2"  />
+    <img align="right" height="150" width="150" src="https://firebasestorage.googleapis.com/v0/b/storage-7f82a.appspot.com/o/200w.gif?alt=media&token=b03cc017-a967-4174-b87f-cb9ed12707d2"  />
 </div>
 
 ###

@@ -1,17 +1,29 @@
 
 ![Header](https://i.ibb.co/zhncCzD/neko-Code1.png "Header")
 
-<h2 align="left">Hi 👋! My name is Felice and I'm a Neko Team Founder, from Indonesia!</h2>
+<h2 align="left">Hi <img src="https://i.ibb.co/PcKBtCB/4z5wave.gif" width="30px" height="30px" /><br>My name is Felice and I'm a Neko Team Founder, from Indonesia!</h2> 
 
-###
+![Neko's Profile views](https://komarev.com/ghpvc/?username=NCTea&style=flat&color=blueviolet)<br>
+
+Greetings! I'm Felice Sukma Lesmana, a dedicated Software Developer, Network Engineer, and DevOps enthusiast based in East Java, Indonesia.
+
+I'm fueled by a passion for technology, constantly pushing boundaries in software development, network engineering, and DevOps practices. As a self-employed professional, I merge creativity with technical expertise to deliver solutions that exceed expectations, optimizing processes and enhancing efficiency across the development lifecycle.
+
+In addition to my expertise in software and network domains, I specialize in DevOps methodologies, leveraging automation and continuous integration/continuous deployment (CI/CD) pipelines to streamline operations and accelerate software delivery.
+
+Beyond tech, I believe in community collaboration, actively engaging with peers to drive industry growth. In my free time, I delve into the latest tech trends and seek inspiration from East Java's natural beauty.
+
+## 🔬 GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NCTea&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3D3B40" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NCTea&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=3D3B40&langs_count=3&layout=compact" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <!-- <img align="right" style="margin-top:25px" height="150" src="https://firebasestorage.googleapis.com/v0/b/storage-7f82a.appspot.com/o/aaaa.gif?alt=media&token=efefd52e-8a5a-434e-84f8-3f8b2fd0df2d"  /> -->
-<div style="margin-top:25px">
+<div>
     <img align="right" height="150" src="https://firebasestorage.googleapis.com/v0/b/storage-7f82a.appspot.com/o/200w.gif?alt=media&token=b03cc017-a967-4174-b87f-cb9ed12707d2"  />
 </div>
 
@@ -51,27 +63,6 @@
 <img src="https://raw.githubusercontent.com/NCTea/Profile/output/snake.svg" alt="Snake animation" />
 
 ###
-
-# Hello, Folks! <img src="https://i.ibb.co/PcKBtCB/4z5wave.gif" width="30px" height="30px" />
-
-![Neko's Profile views](https://komarev.com/ghpvc/?username=NCTea&style=flat&color=blueviolet)<br>
-
-Greetings! I'm Felice Sukma Lesmana, a dedicated Software Developer, Network Engineer, and DevOps enthusiast based in East Java, Indonesia.
-
-I'm fueled by a passion for technology, constantly pushing boundaries in software development, network engineering, and DevOps practices. As a self-employed professional, I merge creativity with technical expertise to deliver solutions that exceed expectations, optimizing processes and enhancing efficiency across the development lifecycle.
-
-In addition to my expertise in software and network domains, I specialize in DevOps methodologies, leveraging automation and continuous integration/continuous deployment (CI/CD) pipelines to streamline operations and accelerate software delivery.
-
-Beyond tech, I believe in community collaboration, actively engaging with peers to drive industry growth. In my free time, I delve into the latest tech trends and seek inspiration from East Java's natural beauty.
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ### Support Me
 
